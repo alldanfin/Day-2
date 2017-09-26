@@ -43,3 +43,11 @@ a {
 a:hover {
   color: #fff;
 }
+
+
+@media screen and (max-width: 360px) {
+    .main {
+        background-size: contain;
+        background-attachment: scroll;
+    }
+}
