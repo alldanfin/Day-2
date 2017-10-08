@@ -1,3 +1,7 @@
+html {
+    height: 100%;
+}
+
 .main {
     background: linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0.5)),
     url("https://s26.postimg.org/gllov1295/spaghetti-min.jpg");
@@ -13,37 +17,37 @@
 /* LANDING PAGE */
 
 #main h3, h1 {
-  font-family: 'Dancing Script', cursive;
+    font-family: 'Dancing Script', cursive;
 }
 
 #main h1 {
-  font-size: 3em;
-  padding-top: 0;
+    font-size: 3em;
+    padding-top: 0;
 }
 
 #main h3 {
-  padding-top: 5%;
-  padding-bottom: 0;
-  font-size: 1.5em;
+    padding-top: 5%;
+    padding-bottom: 0;
+    font-size: 1.5em;
 }
 
 #love {
-  color: #C60000;
+    color: #C60000;
 }
 
 #main p {
-  font-family: 'Josefin Sans', sans-serif;
-  font-size: 1.5em;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1.5em;
 }
 
 a {
-  text-decoration: none;
-  color: #1E6725;
-  font-size: 1.75em;
+    text-decoration: none;
+    color: #1E6725;
+    font-size: 1.75em;
 }
 
 a:hover {
-  color: #fff;
+    color: #fff;
 }
 
 
