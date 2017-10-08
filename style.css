@@ -1,11 +1,12 @@
 .main {
-  background: linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0.5)),
-   url("https://s26.postimg.org/gllov1295/spaghetti-min.jpg");
-  background-size: cover;
-  background-position: center center;
-  background-attachment: fixed;
-  text-align: center;
-  color: #fff;
+    background: linear-gradient(0deg,rgba(0,0,0,1),rgba(0,0,0,0.5)),
+    url("https://s26.postimg.org/gllov1295/spaghetti-min.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    color: #fff;
 }
 
 /* LANDING PAGE */
